@@ -1,5 +1,11 @@
 # @digdir/organization-chart
 
+## 0.4.2
+
+### Patch Changes
+
+- b430089: Fix/home navigation
+
 ## 0.4.1
 
 ### Patch Changes
